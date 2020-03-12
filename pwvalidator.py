@@ -1,4 +1,4 @@
-# This program is to check validation of an entered password
+# This program is to validate an entered password based on
 
 import re
 
